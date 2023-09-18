@@ -36,7 +36,7 @@ const TouristSpots = () => {
           <Col className="py-5">
             {" "}
             <div>
-            <iframe width="1008" height="567" src="https://www.youtube.com/embed/t7-UCywaw1U" 
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/t7-UCywaw1U" 
             title="Trip to Hunza Valley 2019 - Gilgit Baltistan Drone 4k" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
             allowfullscreen></iframe>
@@ -71,7 +71,7 @@ const TouristSpots = () => {
           <Col className="py-5">
             {" "}
             <div>
-            <iframe width="1008" height="567" src="https://www.youtube.com/embed/BbrjWo9z-Wg" 
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/BbrjWo9z-Wg" 
             title="Swat 4k Drone Shots | Discover Pakistan TV" frameborder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
             allowfullscreen></iframe>
@@ -105,7 +105,7 @@ const TouristSpots = () => {
           <Col className="py-5">
             {" "}
             <div>
-            <iframe width="1008" height="567" src="https://www.youtube.com/embed/9ZuZavbq5po" 
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/9ZuZavbq5po" 
             title="Believer | Cinematic Video Nature | Melody | Neelam Valley Pakistan | Mobile Cinematography" frameborder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
             allowfullscreen></iframe>
@@ -139,7 +139,7 @@ const TouristSpots = () => {
           <Col className="py-5">
             {" "}
             <div>
-            <iframe width="1008" height="567" src="https://www.youtube.com/embed/w6XfRGudX6c" 
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/w6XfRGudX6c" 
             title="DEOSAI NATIONAL PARK | DISCOVER PAKISTAN TV" frameborder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
             allowfullscreen></iframe>
@@ -174,7 +174,7 @@ const TouristSpots = () => {
           <Col className="py-5">
             {" "}
             <div>
-            <iframe width="1008" height="567" src="https://www.youtube.com/embed/3eOqtpWyoKw" 
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/3eOqtpWyoKw" 
             title="Badshahi Masjid &quot;The Imperial Mosque&quot; Lahore, Pakistan | The Epitome of Mughal Architecture [4K] UHD" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
             allowfullscreen></iframe>
@@ -207,7 +207,7 @@ const TouristSpots = () => {
           <Col className="py-5">
             {" "}
             <div>
-            <iframe width="1008" height="567" src="https://www.youtube.com/embed/k9gLC31tu5E" 
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/k9gLC31tu5E" 
             title="Masjid Wazir Khan - Lahore Pakistan" frameborder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
             allowfullscreen></iframe>
